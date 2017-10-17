@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1507686256 source:/home/abdullah/Documents/Code::Blocks/CppSandBox/main.cpp
+	<iostream>
+	"IcccSinglyLinkedList.h"
+
+1507686413 /home/abdullah/Documents/Code::Blocks/CppSandBox/IcccSinglyLinkedList.h
+	<iostream>
+
